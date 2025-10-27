@@ -43,7 +43,7 @@ python analyze_lstm.py
 
 ## Ne Bulacaksınız?
 
-- Basit ama çalıştırılabilir .NET API iskeleti (örnek controller ve model)
+- Çalıştırılabilir .NET API iskeleti (örnek controller ve model)
 - SQL tablo ve sample insert örnekleri
 - Python ile ARIMA ve LSTM için hazır şablon scriptleri
 - Power BI ile kullanılabilecek CSV veri örneği

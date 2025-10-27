@@ -49,5 +49,5 @@ python analyze_lstm.py
 - Power BI ile kullanılabilecek CSV veri örneği
 
 ## Lisans
-MIT © 2025 — İbrahim Olcayto
+MIT © 2025 — Olcayto Akbudak
 
